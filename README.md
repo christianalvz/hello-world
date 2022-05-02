@@ -1,5 +1,5 @@
 # hello-world
 ##About Me
-- I have jumped out of a plane (sky diving)
 - I'm a nerd
-- I'm bilingual (English and Spanish)
+- I like traveling and trying new things
+- I like to play soccer a lot
